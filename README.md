@@ -1,2 +1,2 @@
 ## Tostidos- The Legend
-> Tostidos is a chip food found in stores across North America and is renowned as *the* tortilla chip. Suprisingly, these chip tortillas are commonly searched inetnetwise up in New Jersey.
+> Hello, My name is Jacob Culp, and my fellow researchers consist of Nabor Leyva and Juan Carbajal. Today, we would like to present to you, the viewers why **Tostidos** is the best brand???
