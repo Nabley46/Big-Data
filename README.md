@@ -2,9 +2,8 @@
 > Hello, My name is Jacob Culp, and my fellow researchers consist of Nabor Leyva and Juan Carbajal. Today, we would like to present to you, the viewers why **Tostidos** is the best brand?
 
 Provide an introduction section that contains the following information:
-Names of group members
 Links to other group members collaborative report pages
-Assignment description (i.e. What did this project ask you to do?)
+> This project asked us to use *Google Trends* to find information for certain topics and talk to real-life companies about potential ways to improve upon their pre-existing buisness model.
 Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be no more than 200 words.
 
 Tostitos is such a familiar brand that we have never really thought of how it is around the world. That is the reason why we decided to research over the tositos
