@@ -1,9 +1,10 @@
-## Tostitos- The Legend
+# Tostitos- The Legend
 > Hello, My name is Jacob Culp, and my fellow researchers consist of Nabor Leyva and Juan Carbajal. Today, we would like to present to you, the viewers why **Tostidos** is the best brand?
 
 Provide an introduction section that contains the following information:
 Links to other group members collaborative report pages
-> This project asked us to use *Google Trends* to find information for certain topics and talk to real-life companies about potential ways to improve upon their pre-existing buisness model.
+> This project asked us to use *Google Trends* to find information for certain topics and talk to real-life companies about potential ways to improve upon their pre-existing buisness model. We chose Tostidos as our primary focus of our research and searched google trends to find when and when people search for these tasty chips.
+## The results may shock you
 Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be no more than 200 words.
 
 Tostitos is such a familiar brand that we have never really thought of how it is around the world. That is the reason why we decided to research over the tositos
