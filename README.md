@@ -7,7 +7,7 @@ Links to other group members collaborative report pages
 ## The results may shock you
 Describe the area of focus you and your partner chose to explore and explain why you chose this area. Your answer should be no more than 200 words.
 
-Tostitos is such a familiar brand that we have never really thought of how it is around the world. That is the reason why we decided to research over the tositos
+Tostitos is such a familiar brand that we have never really thought of how it is around the world. That is the reason why we decided to research over the tositos brand is our curiosity torwards the rest of the world's opinion of it. Once we began our research, we immediately chose google trends to conduct our primary research. Our results primarily taught us that their primary audience/ consumer base lies in North America (United states of America, Mexico, and Canada).
 
 List the set of three to five questions you sought to answer.
 Identify each permanent data set you used. For each set, you must:
