@@ -5,7 +5,7 @@ will provide the details of your investigation and should include non-textual
 representations that communicate the results of your investigation. These 
 representations could include charts, tables, graphs, visualizations, or other 
 appropriate resources that augment or clarify your questions, analysis, and 
-answers. **
+answers.**
 
 1. Provide an introduction section that contains the following information (2 points):
   - Names of group members
