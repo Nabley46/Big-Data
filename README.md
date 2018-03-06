@@ -6,8 +6,6 @@
 
 Tostitos is such a familiar brand that we have never really thought of how it is around the world. That is the reason why we decided to research over the tositos brand. Once we began our research, we immediately conducted our primary research in google trends. Our results primarily taught us that their primary audience/ consumer base lies in North America (United states of America, Mexico, and Canada).
 
- ![Alt text](/file:///C:/Users/20Jacob.Culp.MANORISD/Pictures/Capture.PNG)
-
 One of the primary questions our research team asked was why this was seeming exclusive to this region. 
 List the set of three to five questions you sought to answer.
 Identify each permanent data set you used. For each set, you must:
